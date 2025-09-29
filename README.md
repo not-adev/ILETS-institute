@@ -76,6 +76,12 @@ A modern, animated, and responsive landing page built with **React**, **Tailwind
 
 ---
 
+## 🧭 Design Philosophy
+
+This layout balances clarity, interactivity, and visual polish. Animations are used to guide attention without overwhelming. The structure is modular and scalable, ideal for SaaS, portfolios, or educational platforms.
+
+---
+
 ## 📄 License
 
 MIT
