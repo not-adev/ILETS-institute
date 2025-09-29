@@ -4,6 +4,12 @@ A modern, animated, and responsive landing page built with **React**, **Tailwind
 
 ---
 
+![Hero Section](/public/image-1.png)
+![Feature Card](/public//image-2.png)
+![Testimonial](/public//image-3.png)
+This is just a preview their are more sectoins, contact me to get more from me .
+---
+
 ## 🚀 Setup Instructions
 
 1. **Clone the repository**

@@ -41,9 +41,9 @@ function Resources() {
         <div className="md:w-1/2 w-full flex justify-center relative">
          <div className="absolute left-0  top-[-10%] w-60 h-full bg-blue-100 rounded-xl z-0" style={{ height: "60vh" }}></div>
             <img
-            src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+            src="https://i.pinimg.com/736x/a4/58/87/a458874e44a648ff94bd9ccc55a75abc.jpg"
             alt="Writing Test Preparation"
-            className="relative z-10 w-60 md:w-auto h-[50vh] object-cover rounded-xl shadow-lg"
+            className="relative z-10 w-[150px] md:w-auto h-[50vh] object-cover rounded-xl shadow-lg"
           />
         </div>
       </div>
