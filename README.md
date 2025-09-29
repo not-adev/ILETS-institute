@@ -14,12 +14,12 @@ This is just a preview their are more sectoins, contact me to get more from me .
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/not-adev/ILETS-institute.git
    cd your-repo-name
    ```
 
 2. **Install dependencies**  
-   If you're using a bundler or build tool (e.g., Vite, Webpack):
+
    ```bash
    npm install
    ```
